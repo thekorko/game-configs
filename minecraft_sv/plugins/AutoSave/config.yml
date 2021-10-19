@@ -1,0 +1,28 @@
+Time:
+  minutes:
+    interval: 30
+Broadcast:
+  SilentMode: false
+  ServerBroadcast: true
+  ConsoleLogging: true
+  BroadcastEachWorld: false
+  AdminOnlyBroadcast: false
+  PreAlertMessage: true
+Language:
+  AutoSaveMessage: '- Saving worlds -'
+  PlayerMessage: Saved...
+  AdminMessage: Saved...
+  NoPermission: You do not have permission
+  AutosaveStarted: Autosave Timer Started
+  AutosaveAlreadyStarted: Autosave Timer Already Started
+  AutosaveHalted: Autosave Timer Stopped
+  AutosaveAlreadyHalted: Autosave Timer Already Stopped
+  Config Missing: Config missing, generating a new one...
+  ConfigReloaded: AutoSave Config Reloaded
+  AutosaveACTIVE: AutoSave is ACTIVE
+  AutosaveINACTIVE: AutoSave is NOT ACTIVE
+  help:
+    toggle: '- Toggle AutoSave'
+    status: '- Check AutoSave status'
+    save: '- Force AutoSave'
+    reload: '- Reload default config'
